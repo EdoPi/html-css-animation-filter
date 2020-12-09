@@ -146,7 +146,7 @@
   100% {transform: rotate(0deg);}
 }
 
-.ex-12-top-white:hover{
+.ex-12-button:hover .ex-12-top-white{
 animation-name: white-left;
 animation-duration: 2s;
 animation-iteration-count: 5;
@@ -158,7 +158,7 @@ animation-timing-function: linear;
   100%{left: 10%;}
 }
 
-.ex-12-bottom-white:hover{
+.ex-12-button:hover .ex-12-bottom-white{
 animation-name: white-b-left;
 animation-duration: 2s;
 animation-iteration-count: 5;
@@ -170,7 +170,7 @@ animation-timing-function: linear;
   100%{right: 20%;}
 }
 
-.ex-13-top-white:hover{
+.ex-13-button:hover .ex-13-top-white{
 animation-name: white-round;
 animation-duration: 5s;
 animation-iteration-count: 5;
@@ -186,7 +186,7 @@ animation-timing-function: linear;
 }
 
 
-.ex-13-bottom-white:hover{
+.ex-13-button:hover .ex-13-bottom-white{
 animation-name: white-b-round;
 animation-duration: 5s;
 animation-iteration-count: 5;
